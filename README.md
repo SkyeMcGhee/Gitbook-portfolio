@@ -16,5 +16,3 @@ The entirety of the game is driven by what is established in the opening scene.
 
 
 
-here are some changes to test the sync with github, and its show of activity. why isnt it registering? no body knows. i suppose we'll find out why.
-
