@@ -10,4 +10,6 @@
 
 \-puzzles are mainly used to unlock new areas, only occasionally for lore or items.
 
+\-each seperated limbo area is designed to reflect each characters past and personalities. the fathers is filled with books and papers, is straight foreward and mostly well lit with a warmer glow,. the mothers is cold, with dead and vicous plants and constant sliding downward slopes
+
 The Last Case of Benedict Fox is a strange mix of seperate puzzle and platforming mechanics, driven by a twisting mystery displayed through decaying minds and memories. The protagonist, Benedict Fox, explores these surreal places with the help of an eldritch companion.
