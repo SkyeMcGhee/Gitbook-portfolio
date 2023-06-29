@@ -12,7 +12,7 @@ When the player first starts the game, they are immediately faced with a black s
 
 The story's main focus is the main character being bestowed the powers of a captured entity, escaping sacrifice, and beginning the prophecy that the player sees on the first screen. It is made clear from this point that the main character wasn't given this power without consequence, and that this entity will attempt to get it back when the time comes. This is further reinforced when the player meets the tutorial character, who was once in the same role. This sets up future conflict beyond the immediate goal of needing to gain more power and defeating the monsters that tried to sacrifice the main character, giving the player expectations for future events.&#x20;
 
-The entirety of the game is driven by what is established in the opening scene.
+The entirety of the game is driven by what is established in the opening scene. While the game might be simple from a narrative perspective, the game focuses on establishing its story and trajectory quickly and effectively.
 
 
 
