@@ -21,13 +21,13 @@ The Player's sire, a 12th generation tremere and well established kindred who pr
 
 ## The Prince
 
-Tremere, Ancillae
+Tremere, Ancillae. Apparent age of 30\~
 
 
 
-## The Prince's Heir
+## The Prince's Protege
 
-
+late teens, thin blood? recently embraced
 
 ## The Detective
 
