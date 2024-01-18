@@ -18,6 +18,6 @@ Gameplay will take place mainly in the city of Belfast, with room to involve Dub
 
 ## Elysium
 
-The Hotel that the player manages is elysium. need to fill out background for how and why player is so politically involved and trusted by the prince (sire doing some manipulating?)
+The hotel that the player manages is elysium. need to fill out background for how and why player is so politically involved and trusted by the prince (sire doing some manipulating?)
 
 ## &#x20;

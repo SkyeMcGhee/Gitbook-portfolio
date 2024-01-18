@@ -17,9 +17,17 @@ Notes:
 
 ## Sire
 
-The Player's sire, a 12th generation tremere and well established kindred who prefers to manage things from afar, mysterious but invested in their childe's success. Bankrolled the hotel
+The Player's sire, a 12th generation tremere and well established kindred who prefers to manage things from afar, mysterious but invested in their childe's success. Bankrolled the hotel. Born 1895, embraced 1940. (Humanity 6?)&#x20;
 
 ## The Prince
+
+Tremere, Ancillae
+
+
+
+## The Prince's Heir
+
+
 
 ## The Detective
 
