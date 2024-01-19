@@ -23,6 +23,12 @@ The Player's sire, a 12th generation Tremere and well established kindred who pr
 
 in terms of Tremere hierarchy, Alexis is a Magister
 
+Basic Details:
+
+Background:&#x20;
+
+Modern Nights:&#x20;
+
 ## The Prince
 
 Tremere, Ancillae. Apparent age of 30\~
