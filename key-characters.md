@@ -10,14 +10,18 @@ Touchstones: Janitor at the hotel
 
 Notes:
 
-* Only one touchstone, leaves him vulnerable to stains related to damaged touchstone, but more freedom to act cruely without acquiring a stain.
+* Only one touchstone, leaves him vulnerable to stains related to damaged touchstone, but more freedom to act cruelly without acquiring a stain.
 * acting as the 'nephew' of his past self, but has no legal documents to back it up
+
+in terms of Tremere hierarchy, Edward is an apprentice
 
 
 
 ## The Sire - Alexis
 
-The Player's sire, a 12th generation tremere and well established kindred who prefers to manage things from afar, mysterious but invested in their childe's success. Bankrolled the hotel. Born 1895, embraced 1940. (Humanity 6?)&#x20;
+The Player's sire, a 12th generation Tremere and well established kindred who prefers to manage things from afar, mysterious but invested in their childe's success. Bankrolled the hotel. Born 1895, embraced 1940. (Humanity 6?)&#x20;
+
+in terms of Tremere hierarchy, Alexis is a Magister
 
 ## The Prince
 
