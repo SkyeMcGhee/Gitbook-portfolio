@@ -1,6 +1,6 @@
 # Key Characters
 
-## Edward Denouement
+## The Player - Edward Denouement
 
 The player character, a 13th generation Tremere with an apparent age of 36. Born 1951, embraced 1987 by (sire goes here).
 
@@ -15,7 +15,7 @@ Notes:
 
 
 
-## Sire
+## The Sire - Alexis
 
 The Player's sire, a 12th generation tremere and well established kindred who prefers to manage things from afar, mysterious but invested in their childe's success. Bankrolled the hotel. Born 1895, embraced 1940. (Humanity 6?)&#x20;
 
