@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+  * [Tools](introduction/tools.md)
   * [Term Definitions](introduction/term-definitions.md)
 * [World Setup](world-setup.md)
 * [Key Characters](key-characters.md)
