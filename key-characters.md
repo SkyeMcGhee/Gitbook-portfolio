@@ -25,19 +25,21 @@ in terms of Tremere hierarchy, Alexis is a Magister
 
 Basic Details:
 
+apparent age of 45.&#x20;
+
 Background:&#x20;
 
 Modern Nights:&#x20;
 
 ## The Prince
 
-Tremere, Ancillae. Apparent age of 30\~
+Ventrue, Ancillae. Apparent age of 30\~
 
 
 
 ## The Prince's Protege
 
-late teens, thin blood? recently embraced
+late teens, thin blood? recently embraced, gen z and unconcerned with kindred society
 
 ## The Detective
 
