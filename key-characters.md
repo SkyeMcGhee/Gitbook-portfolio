@@ -35,6 +35,8 @@ Modern Nights:&#x20;
 
 Ventrue, Ancillae. Apparent age of 30\~
 
+Represents the Caramilla's interests in the region. As the only prince on the island, she is in charge of maintaining the masquerade and  dealing with breaches, as well as the usual threats to kindred.&#x20;
+
 
 
 ## The Prince's Protege
