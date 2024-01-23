@@ -45,3 +45,20 @@ consequences:&#x20;
 description:&#x20;
 
 ### Phase 1 - Introduction
+
+## Prelude
+
+conditions: N/A
+
+Time frame: 1-2 sessions
+
+consequences: N/A
+
+description: The start of the chronicle, where our player will be embraced and brought into kindred society
+
+### Phase 1 - The Embrace
+
+at a dico nightclub, you make some questionable business decisions. Sire funds your idea, and embraces you as payment.&#x20;
+
+### Phase 2 - Introduction To The World
+
