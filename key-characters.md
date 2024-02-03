@@ -43,6 +43,13 @@ Represents the Caramilla's interests in the region. As the only prince on the is
 
 late teens, thin blood? recently embraced, gen z and unconcerned with kindred society
 
-## The Detective
+## The Sheriff
+
+tzimisc, outgoing, relaxed, speaks her mind.
+
+## The Princes retainer
+
+## The Detectives
 
 ## New Employee
+
