@@ -31,7 +31,7 @@ Background:&#x20;
 
 Modern Nights:&#x20;
 
-## The Prince
+## The Prince - Julia Lynch
 
 Ventrue, Ancillae. Apparent age of 30\~
 
@@ -39,7 +39,7 @@ Represents the Caramilla's interests in the region. As the only prince on the is
 
 
 
-## The Prince's Protege
+## The Prince's Protege - Aria Wilson
 
 late teens, thin blood? recently embraced, gen z and unconcerned with kindred society
 
