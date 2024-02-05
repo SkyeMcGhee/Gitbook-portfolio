@@ -51,5 +51,11 @@ tzimisc, outgoing, relaxed, speaks her mind.
 
 ## The Detectives
 
+two detectives have been seen around the hotel a lot lately. They may know something, or maybe not.
+
+### detective 1
+
+### detective 2
+
 ## New Employee
 
