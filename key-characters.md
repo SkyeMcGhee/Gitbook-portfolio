@@ -47,7 +47,15 @@ late teens, thin blood? recently embraced, gen z and unconcerned with kindred so
 
 tzimisc, outgoing, relaxed, speaks her mind.
 
-## The Princes retainer
+Basic Details:
+
+
+
+Background:&#x20;
+
+Modern Nights:&#x20;
+
+## The Princes retainer - Amelia
 
 ## The Detectives
 
