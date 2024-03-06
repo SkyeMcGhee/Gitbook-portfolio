@@ -1,18 +1,50 @@
 ---
-description: Some notes and analysis on Cult of the Lamb
+description: Some notes and analysis on the narrative in Cult of the Lamb
 ---
 
 # Cult of the Lamb
 
 
 
-Cult of the Lamb's narrative, on the surface, has a simple setup and hook. However, its attention to detail and dedication to the atmosphere makes its simple premise engaging and immersive.&#x20;
+\-dialogue-less, genderless main character
 
-When the player first starts the game, they are immediately faced with a black screen and deep, distorted gibberish sounds. In one small paragraph, a prophecy is shown in white text as the gibberish plays, immediately setting the goal and threat. This is a good example of the game's efficiency, accomplishing a lot in a small time frame. This is also true for introducing new gameplay mechanics, often done simply and directly through dialogue.
+\-player serving the god of death
 
-The story's main focus is the main character being bestowed the powers of a captured entity, escaping sacrifice, and beginning the prophecy that the player sees on the first screen. It is made clear from this point that the main character wasn't given this power without consequence, and that this entity will attempt to get it back when the time comes. This is further reinforced when the player meets the tutorial character, who was once in the same role. This sets up future conflict beyond the immediate goal of needing to gain more power and defeating the monsters that tried to sacrifice the main character, giving the player expectations for future events.&#x20;
+\-player becomes god of death at the end
 
-The entirety of the game is driven by what is established in the opening scene. While the game might be simple from a narrative perspective, the game focuses on establishing its story and trajectory quickly and effectively.
+\-power is stored in the crowns, gods just being the wearer
+
+\-player responds to dialogue through acts most of the time
+
+introduction:
+
+\-gameplay
+
+\-story intro
+
+\-story delivery
+
+the world:
+
+\-how gods work
+
+\-entities outside of gods
+
+\-players relation to other entities
+
+the story:
+
+\-beginning
+
+\-player progression and lore drops
+
+\-ending and implicaitons
+
+summary:
+
+\-story is a small snippet of a complicated world
+
+\-player is the direct cause of a major event that would typically be backstory.
 
 
 
