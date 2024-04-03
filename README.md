@@ -1,50 +1,9 @@
----
-description: Some notes and analysis on the narrative in Cult of the Lamb
----
+# Introduction
 
-# Cult of the Lamb
+Working in v5 of Vampire: The Masquerade. 1 on 1 chronicle titled "The Bloodstained Waltz", and (other chronicle here)\
+\
+Here will be a documentation of a world, characters and events split between two seperate games, as well as notes on problems that crop up.
 
+Chronicle "The Bloodstained Waltz" Synopsis:
 
-
-\-dialogue-less, genderless main character
-
-\-player serving the god of death
-
-\-player becomes god of death at the end
-
-\-power is stored in the crowns, gods just being the wearer
-
-\-player responds to dialogue through acts most of the time
-
-introduction:
-
-\-gameplay
-
-\-story intro
-
-\-story delivery
-
-the world:
-
-\-how gods work
-
-\-entities outside of gods
-
-\-players relation to other entities
-
-the story:
-
-\-beginning
-
-\-player progression and lore drops
-
-\-ending and implicaitons
-
-summary:
-
-\-story is a small snippet of a complicated world
-
-\-player is the direct cause of a major event that would typically be backstory.
-
-
-
+in modern nights, ireland is not able to sustain a stable kindred population. With a small mortal population, tight knit communities and small cities offering little protection from daylight, kindred survival relies on loyalty and strict control.&#x20;

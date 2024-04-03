@@ -41,7 +41,7 @@ Represents the Caramilla's interests in the region. As the only prince on the is
 
 ## The Prince's Protege - Aria Wilson
 
-late teens, thin blood? recently embraced, gen z and unconcerned with kindred society
+late teens, thin blood? recently embraced, 20 years old and unconcerned with kindred society. Secretly a retainer for a powerful Hecata.&#x20;
 
 ## The Sheriff
 
