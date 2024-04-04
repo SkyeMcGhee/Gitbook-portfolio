@@ -20,6 +20,8 @@ god of death invents resurection, is imprissoned by his siblings, a prophecy is 
 
 introduction:
 
+Cult Of The Lamb is a rougelite released in 2022 by Massive Monster.
+
 \-gameplay
 
 \-story intro
