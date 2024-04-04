@@ -7,3 +7,4 @@
 * [Disco Elysium](disco-elysium.md)
 * [Five Nights at Freddy's franchise](five-nights-at-freddys-franchise.md)
 * [Splatoon franchise: real world analogues and the purpose they serve](splatoon-franchise-real-world-analogues-and-the-purpose-they-serve.md)
+* [Mirror's Edge](mirrors-edge.md)
