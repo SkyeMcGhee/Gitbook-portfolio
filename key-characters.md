@@ -31,7 +31,7 @@ Background:&#x20;
 
 Modern Nights:&#x20;
 
-## The Prince - Julia Lynch
+## The Prince -   Aria Wilson
 
 Ventrue, Ancillae. Apparent age of 30\~
 
@@ -39,7 +39,7 @@ Represents the Caramilla's interests in the region. As the only prince on the is
 
 
 
-## The Prince's Protege - Aria Wilson
+## The Prince's Protege - Amelia
 
 late teens, thin blood? recently embraced, 20 years old and unconcerned with kindred society. Secretly a retainer for a powerful Hecata.&#x20;
 
@@ -55,7 +55,7 @@ Background:&#x20;
 
 Modern Nights:&#x20;
 
-## The Princes retainer - Amelia
+## The Princes retainer -&#x20;
 
 ## The Detectives
 
