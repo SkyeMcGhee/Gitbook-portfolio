@@ -67,3 +67,9 @@ two detectives have been seen around the hotel a lot lately. They may know somet
 
 ## New Employee
 
+## The Courier
+
+toreador, apparent age 20\~
+
+Linda- the receptionist
+
