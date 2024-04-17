@@ -1,9 +1,54 @@
-# Introduction
+---
+description: Some notes and analysis on the narrative in Cult of the Lamb
+---
 
-Working in v5 of Vampire: The Masquerade. 1 on 1 chronicle titled "The Bloodstained Waltz", and (other chronicle here)\
-\
-Here will be a documentation of a world, characters and events split between two seperate games, as well as notes on problems that crop up.
+# Cult of the Lamb
 
-Chronicle "The Bloodstained Waltz" Synopsis:
+story in a few words:
 
-in modern nights, ireland is not able to sustain a stable kindred population. With a small mortal population, tight knit communities and small cities offering little protection from daylight, kindred survival relies on loyalty and strict control.&#x20;
+god of death invents resurection, is imprissoned by his siblings, a prophecy is made, an entire species is killed in the name of that prophecy, you play as the prophecised character, build a cult in the captured gods name, defeat the other gods, in the end ur god tries to kill you, you kill him instead and then he serves U. THEN you meet the mystic seller who says things are out of whack, need to kill the gods again to get them out of purgetory.
+
+\-dialogue-less, genderless main character
+
+\-player serving the god of death
+
+\-player becomes god of death at the end
+
+\-power is stored in the crowns, gods just being the wearer
+
+\-player responds to dialogue through acts most of the time
+
+introduction:
+
+Cult Of The Lamb is a rougelite released in 2022 by Massive Monster.
+
+\-gameplay
+
+\-story intro
+
+\-story delivery
+
+the world:
+
+\-how gods work
+
+\-entities outside of gods
+
+\-players relation to other entities
+
+the story:
+
+\-beginning
+
+\-player progression and lore drops
+
+\-ending and implicaitons
+
+summary:
+
+\-story is a small snippet of a complicated world
+
+\-player is the direct cause of a major event that would typically be backstory.
+
+
+
