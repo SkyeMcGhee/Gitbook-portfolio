@@ -10,6 +10,10 @@ Mirror's edge is a 3d platformer released in 2008. The game has a heavy focus on
 
 &#x20;  \-dystopia set in a clean, big city
 
+&#x20;   \-asethetic contrasts themesd
+
+&#x20;   \-feels low level but has big implications??
+
 \-interesting characters
 
 \-underused material
